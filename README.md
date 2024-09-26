@@ -8,3 +8,5 @@ Progress Bar: Displays a visual progress bar showing how close you are to achiev
 Goal Management: Easily delete goals once completed or no longer needed.
 
 The project is approximately 500 lines of Dart code, focusing on simplicity and ease of use.
+
+You can find the code itself in the "lib" folder (main.dart).
