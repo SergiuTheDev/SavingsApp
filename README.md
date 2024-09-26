@@ -1,16 +1,10 @@
-# flutter_application_1
+# Savings App Built with Flutter & Dart
+This app is a simple savings tracker, built using Flutter and Dart. It allows users to manage savings goals with the following features:
 
-A new Flutter project.
+Currency Selection: Supports EUR, USD, and RON.
+Create Savings Goals: Set goals like "Saving for Laptop" with a target amount (e.g., 1000 EUR).
+Track Progress: Add to your savings or deduct from the total if you spend the saved money.
+Progress Bar: Displays a visual progress bar showing how close you are to achieving each goal.
+Goal Management: Easily delete goals once completed or no longer needed.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The project is approximately 500 lines of Dart code, focusing on simplicity and ease of use.
